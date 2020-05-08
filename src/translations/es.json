@@ -1,0 +1,19 @@
+{
+  "lenguage": "es",
+  "months": "Enero_Febrero_Marzo_Abril_Mayo_Junio_Julio_Agosto_Septiembre_Octubre_Noviembre_Diciembre",
+  "monthsShort": "Ene_Feb_Mar_Abr_May_Jun_Jul_Ago_Sep_Oct_Nov_Dic",
+  "weekdays": "Domingo_Lunes_Martes_Miercoles_Jueves_Viernes_Sabado",
+  "weekdaysShort": "Dom_Lun_Mar_Mier_Jue_Vie_Sab",
+  "weekdaysMin": "Do_Lu_Ma_Mi_Ju_Vi_Sa",
+  "password": "Contraseña",
+  "signin": "Ingresar",
+  "forgotpassword": "¿Olvido la contraseña?",
+  "newtime": "Nueva Hora:",
+  "updatetime": "Actualizar:",
+  "selectproject": "Seleccionar Un Proyecto:",
+  "description": "Descripcion: ",
+  "descriptionP": "En Este lugar agregar la descripcion del trabajo",
+  "addaction": "Agregar",
+  "cancelaction": "Cancelar",
+  "editaction": "Editar"
+}
